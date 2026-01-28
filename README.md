@@ -13,6 +13,9 @@
 - 🔄 管理本地技能索引缓存
 - 🤖 自动化技能发现和安装流程
 
+## 推荐安装方式
+https://github.com/2025wjt/skills-sh-recommender/blob/master/llm_read_en.md，请按照指定文件说明来安装skills-sh-recommender，并进行验证，安装完成后告知使用规范。
+
 ## 功能特性
 
 - **智能搜索**：支持关键词搜索，自动匹配技能名称、描述和标签
